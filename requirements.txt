@@ -1,0 +1,7 @@
+black==24.4.2
+datasets==2.20.0
+ipykernel==6.29.4
+librosa==0.10.2.post1
+matplotlib==3.9.0
+pip-chill==1.0.3
+tokenize-rt==5.2.0
