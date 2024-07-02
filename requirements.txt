@@ -1,7 +1,15 @@
 black==24.4.2
 datasets==2.20.0
-ipykernel==6.29.4
+gradio==4.37.2
+httptools==0.6.1
+iprogress==0.4
+ipykernel==6.29.5
 librosa==0.10.2.post1
-matplotlib==3.9.0
 pip-chill==1.0.3
+python-dotenv==1.0.1
+tensorflow==2.16.2
 tokenize-rt==5.2.0
+torch==2.3.1
+transformers==4.42.3
+uvloop==0.19.0
+watchfiles==0.22.0
